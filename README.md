@@ -47,12 +47,34 @@ The repository includes the following files:
 - Training Accuracy: 78.42%
 - Test Accuracy: 80.08%
 
+![BN_Result](https://github.com/navpreetsingh9/S8-Assignment-Solution/blob/ce3a9200308e7f36a015155e679f8db554db853a/img/bn_result.png)
+
 #### 2. Group Normalization
 
 - Training Accuracy: 73.19%
 - Test Accuracy: 72.38%
 
+![GN_Result](https://github.com/navpreetsingh9/S8-Assignment-Solution/blob/ce3a9200308e7f36a015155e679f8db554db853a/img/gn_result.png)
+
 #### 3. Layer Normalization
 
 - Training Accuracy: 73.22%
 - Test Accuracy: 72.38%
+
+![LN_Result](https://github.com/navpreetsingh9/S8-Assignment-Solution/blob/ce3a9200308e7f36a015155e679f8db554db853a/img/ln_result.png)
+
+
+
+### Incorrect Classified Images
+
+#### 1. Batch Normalization
+
+![BN_Incorrect](https://github.com/navpreetsingh9/S8-Assignment-Solution/blob/ce3a9200308e7f36a015155e679f8db554db853a/img/bn_incorrect.png)
+
+#### 2. Group Normalization
+
+![GN_Incorrect](https://github.com/navpreetsingh9/S8-Assignment-Solution/blob/ce3a9200308e7f36a015155e679f8db554db853a/img/gn_incorrect.png)
+
+#### 3. Layer Normalization
+
+![LN_Incorrect](https://github.com/navpreetsingh9/S8-Assignment-Solution/blob/ce3a9200308e7f36a015155e679f8db554db853a/img/ln_incorrect.png)
